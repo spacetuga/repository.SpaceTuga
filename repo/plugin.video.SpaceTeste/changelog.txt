@@ -1,0 +1,3 @@
+Version 1.0.0
+Este é um addon de Testes de Canais de TV e Rádios
+Criado por katuga para Space Tuga
